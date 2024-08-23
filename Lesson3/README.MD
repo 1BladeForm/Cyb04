@@ -27,7 +27,7 @@
     - Откройте терминал на Kali Linux.
     - Используйте команду `nmap` для сканирования подсети: `nmap -Pn 10.10.0.4`.
 3. **Скриншот**:
-    ![Сканирование подсети](https://i.imgur.com/ONc9UYv.png)
+    ![Сканирование подсети](https://i.imgur.com/JXNE5xz.png)
 ### 4.  Создания словаря с помощью crunch 
 1. **Описание**: сделаем словарь очень маленьким с 1 до 1 символа 
 2. **Шаги**:
@@ -42,5 +42,5 @@
     - Убедитесь, что SSH-сервер работает и доступен для подключения.
     - Используйте утилиту `hydra` для выполнения BruteForce-атаки: `hydra -l adminisrator -P wordlists.txt ssh://10.10.0.4>`.
 3. **Скриншот**:
-    ![BruteForce-атака](./screenshots/bruteforce-ssh.png)
+    ![BruteForce-атака](https://imgur.com/LRNgFmV)
 

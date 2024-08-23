@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\artem\\source\\repos\\Cyb04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\artem\\source\\repos\\Cyb04\\Lesson5\\README.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lesson5\\README.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\artem\\source\\repos\\Cyb04\\Lesson3\\README.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lesson3\\README.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\artem\\source\\repos\\Cyb04\\Lesson4\\README.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lesson4\\README.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\artem\\source\\repos\\Cyb04\\Lesson6\\README.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lesson6\\README.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\artem\\source\\repos\\Cyb04\\Lesson5\\README.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lesson5\\README.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\artem\\source\\repos\\Cyb04\\Lesson2\\README.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +42,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.MD",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\Cyb04\\Lesson6\\README.MD",
+              "RelativeDocumentMoniker": "Lesson6\\README.MD",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\Cyb04\\Lesson6\\README.MD",
+              "RelativeToolTip": "Lesson6\\README.MD",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-23T18:43:43.127Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.MD",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\Cyb04\\Lesson3\\README.MD",
+              "RelativeDocumentMoniker": "Lesson3\\README.MD",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\Cyb04\\Lesson3\\README.MD*",
+              "RelativeToolTip": "Lesson3\\README.MD*",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-23T17:13:38.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "README.MD",
               "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\Cyb04\\Lesson5\\README.MD",
               "RelativeDocumentMoniker": "Lesson5\\README.MD",
@@ -42,8 +75,7 @@
               "RelativeToolTip": "Lesson5\\README.MD",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-22T17:11:13.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T17:11:13.341Z"
             },
             {
               "$type": "Document",
@@ -53,14 +85,14 @@
               "RelativeDocumentMoniker": "Lesson4\\README.MD",
               "ToolTip": "C:\\Users\\artem\\source\\repos\\Cyb04\\Lesson4\\README.MD",
               "RelativeToolTip": "Lesson4\\README.MD",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAowGkAAAAAAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAowGkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-08-22T15:05:30.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "README.MD",
               "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\Cyb04\\Lesson2\\README.MD",
               "RelativeDocumentMoniker": "Lesson2\\README.MD",
@@ -68,8 +100,7 @@
               "RelativeToolTip": "Lesson2\\README.MD",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-22T12:59:53.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T12:59:53.549Z"
             }
           ]
         }
